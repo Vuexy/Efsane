@@ -1,0 +1,17 @@
+{
+  "name": "efsane",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Vuexy",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "google-translate-api": "^2.3.0",
+    "moment": "^2.20.1",
+    "moment-duration-format": "^2.2.1"
+  }
+}
